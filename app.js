@@ -1,4 +1,5 @@
 //Teste nova Branch
+// Teste 2 de fazer um Branch
 let listaDeNumerosSorteados = [];
 let numeroLimite = 10;
 let numeroSecreto = gerarNumeroAleatorio();
